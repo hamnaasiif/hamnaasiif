@@ -39,7 +39,9 @@ C:\HAMNA\research> ls
 ```
 
 `> gans_and_diffusion` — trained GANs (DCGAN, WGAN-GP, CycleGAN, Pix2Pix) and a Denoising Diffusion Probabilistic Model from scratch in PyTorch, for image generation and domain adaptation
+
 `> vlm_finetuning` — fine-tuned Qwen2-VL-2B-Instruct using QLoRA for document-image-to-Markdown generation
+
 `> self_supervised` — Masked Autoencoder (MAE) for image representation learning on TinyImageNet
 
 ```
@@ -47,11 +49,17 @@ C:\HAMNA\stack> cat tech.json
 ```
 
 **Languages** — JavaScript (ES6+), TypeScript, Python, C++
+
 **Frontend** — React, Next.js, Redux, WebXR
+
 **Backend** — Node.js, Express.js, FastAPI
+
 **Databases** — PostgreSQL, MongoDB, SQLite, Redis
+
 **AI / ML** — LLM APIs (Groq, OpenAI), GANs, Diffusion Models, VLM Fine-Tuning (QLoRA), MediaPipe, TensorFlow.js
+
 **Testing & Automation** — Playwright, Behave (BDD), Allure
+
 **Tools** — Docker, Git, Vercel, Neon
 
 ```
@@ -65,7 +73,9 @@ C:\HAMNA\contact> ls
 ```
 
 `> portfolio` — https://portfolio-psi-blond-etmqyu77go.vercel.app/
+
 `> linkedin` — https://www.linkedin.com/in/hamna-asif-98121936b/
+
 `> email` — hamnaasif2601@gmail.com
 
 <div align="center">
