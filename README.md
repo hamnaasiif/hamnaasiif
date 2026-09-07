@@ -44,25 +44,7 @@ C:\HAMNA\research> ls
 
 `> self_supervised` — Masked Autoencoder (MAE) for image representation learning on TinyImageNet
 
-```
-C:\HAMNA\stack> cat tech.json
-```
 
-**Languages** — JavaScript (ES6+), TypeScript, Python, C++
-
-**Frontend** — React, Next.js, Redux, WebXR
-
-**Backend** — Node.js, Express.js, FastAPI
-
-**Databases** — PostgreSQL, MongoDB, SQLite, Redis
-
-**AI / ML** — LLM APIs (Groq, OpenAI), GANs, Diffusion Models, VLM Fine-Tuning (QLoRA), MediaPipe, TensorFlow.js
-
-**Testing & Automation** — Playwright, Behave (BDD), Allure
-
-**Tools** — Docker, Git, Vercel, Neon
-
-```
 C:\HAMNA\status> echo $CURRENT
 ```
 
